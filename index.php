@@ -23,7 +23,7 @@
               <div class="logo_text">
                 <a href="index.html">
                   <img src="images/logo_big.png" />
-                  <span>Samurai University2024</span><?php echo("こんにちは"); ?>
+                  <span>Samurai University</span>
                 </a>
               </div>
             </div>
